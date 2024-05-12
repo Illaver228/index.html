@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+head p {
+ font-aling: right;
+}
+
+head img {
+font-aling: left;
+}
+
+.Bs a {
+    font-aling: center;
+}
+
+.pet {
+    text-align: left;
+}
+
+.saly {
+    text-align: right;
+}
+
+footer {
+    background-color: aqua;
+}
+
+footer img {
+    text-align: right;
+}
+
+footer p {
+    text-align: left;
+}
